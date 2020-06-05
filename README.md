@@ -1,9 +1,13 @@
 # code_refactor
 
 ## Description 
-#HTML file
-change the title of the website to: `title` Horiseon a leader in marketing and social media.
-change `div` to `header`
+# HTML file
+line 7 change the title of the website to: `title` Horiseon a leader in marketing and social media.
+change all the `div` to semantic tags
+line 14 change `div` to `header`remove the `class="header"`
+line 17 change `div` to `nav`
+i condensed links to three lines 20,21,22 
+
 
 Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
 
