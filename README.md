@@ -63,7 +63,7 @@ line 115 changed div to footer, removed the `class` attribute
 
 line 121 changed `div` to `footer`
 
-##CSS
+## CSS
 
 I condensed some of the classes to consolidate them and change the name on them also.
 
