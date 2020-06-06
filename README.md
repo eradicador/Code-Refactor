@@ -1,9 +1,9 @@
 # code_refactor
 ## Description 
 # HTML file
-line 7 changed the title of the website to: `title` Horiseon a leader in marketing and social media.
+changed all the `div` to semantic tags, changed some the classes names to match them with the css file and consolidate them into 1.
 
-changed all the `div` to semantic tags
+line 7 changed the title of the website to: `title` Horiseon a leader in marketing and social media.
 
 line 14 changed `div` to `header`remove the `class="header"`
 
@@ -63,7 +63,31 @@ line 115 changed div to footer, removed the `class` attribute
 
 line 121 changed `div` to `footer`
 
-#CSS
+##CSS
+
+I condensed some of the classes to consolidate them and change the name on them also.
+
+line 11, 18, 23, 27, 35, 39 removed . no need for it, the class attribute has been removed from html file
+
+line 92 changed .benefit-lead, .benefit-brand, .benefit-cost to .benefit to consolidate 3 classes into 1
+
+line 99 changed .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 to .benefit h3 to consolidate 3 classes into 1
+
+line 105 changed .benefit-lead img, .benefit-brand img, .benefit-cost img to .benefit img to consolidate 3 classes into 1
+
+line 112 changed .search-engine-optimization, .online-reputation-management, .social-media-marketin to ,search-engine to consolidate 3 classes into 1
+
+line 121 changed .search-engine-optimization img, .online-reputation-management img, .social-media-marketin img to ,search-engine img to consolidate 3 classes into 1
+
+line 125 changed .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketin h2 to ,search-engine h2 to consolidate 3 classes into 1
+
+line 130 removed . no need for it, the class attribute has been removed from html file
+
+line 137 removed . no need for it, the class attribute has been removed from html file
+
+
+
+
 
 
 
