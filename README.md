@@ -65,7 +65,7 @@ line 121 changed `div` to `footer`
 
 ## CSS
 
-I condensed some of the classes to consolidate them and change the name on them also.
+I condensed some of the classes to consolidate them and changed the name on them also.
 
 line 11, 18, 23, 27, 35, 39 removed . no need for it, the class attribute has been removed from html file
 
